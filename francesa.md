@@ -23,3 +23,7 @@ Es una especialidad del sur de Francia, además de uno de los platos típicos fr
 
 Moules frites.
 Plato tradicional principalmente en Bélgica y el norte de Francia. Como el nombre indica, el plato está hecho de mejillones y patatas fritas con salsas de cebolla y de queso. En general, los franceses comen esta comida en los restaurantes en cantidad ilimitada.
+
+# BEBIDAS
+Vinos franceses: Champagne, Borgoña, Burdeos
+Pastis: Un licor anisado muy popular
