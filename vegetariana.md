@@ -23,3 +23,6 @@ Esta receta es clásica, pero no por eso menos adecuada para un evento que ameri
 agua
 té
 jugos en agua
+
+# CONSEJOS
+aunque se vea muy llamativa y fitness, no deje de consumir carne, es escencial para el cuerpo
