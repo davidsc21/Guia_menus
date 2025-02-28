@@ -27,3 +27,12 @@ Plato tradicional principalmente en Bélgica y el norte de Francia. Como el nomb
 # BEBIDAS
 Vinos franceses: Champagne, Borgoña, Burdeos
 Pastis: Un licor anisado muy popular
+
+# CONSEJOS
+Reduce la grasa en las salsas. 
+Enloquécete con los vegetales. 
+Quítale la grasa a la carne. 
+Escoge el método de cocción indicado. 
+No le eches demasiada sal a tus platos. 
+Deja descansar a la carne. 
+No quemes la grasa.
