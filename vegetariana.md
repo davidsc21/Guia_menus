@@ -18,3 +18,8 @@ Rollitos primavera:
 ¿Quién no ama los rollitos primavera? No hay nada mejor que unas buenas verduras aderezadas con salsa de soja y caldo para contrastar con la firmeza de la masa de pasta de trigo o el arroz.
 
 Esta receta es clásica, pero no por eso menos adecuada para un evento que amerite un plato gourmet. Cuantas más verduras incluyas en el relleno, mejor.
+
+# BEBIDAS
+agua
+té
+jugos en agua
