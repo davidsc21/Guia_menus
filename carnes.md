@@ -8,3 +8,7 @@
 2. Colita de cuadril relleno de vegetales
 3. Filete de ternera con aderezo de trufas
 4. Filetes de carne con salsa de hongos y vino tinto
+
+# BEBIDAS
+agua
+vino
