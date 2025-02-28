@@ -8,3 +8,6 @@ sushi: rollo de algas relleno comunmente de arroz y salmon, sin embargo puede te
 onigiris: bocadillos de arroz relleno comunmnete hechos en forma de triangulo
 ramen: caldo de fideos acompañado con carne comunmente de cerdo, salsa soya, cebollin y narutos
 
+# BEBIDAS
+sake: bebida alcoholica comunmente obtenida de la fermentacion del arroz
+agua: agua 
