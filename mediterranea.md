@@ -20,3 +20,7 @@ El tabulé es una ensalada fresca y ligera de origen libanés. Está hecha princ
 
 5. Calamari a la Romana:
 Este plato es una deliciosa preparación de calamares, muy popular en Italia. Los calamares se rebozan y fríen hasta obtener un exterior crujiente, pero manteniendo su interior tierno. Se sirven generalmente con una salsa marinara o alioli para un toque de sabor adicional.
+
+# BEBIDAS
+sangría de otoño:
+ La sangría de otoño combina ron blanco, vino tinto, limonada, limón fresco y jugo de naranja.
