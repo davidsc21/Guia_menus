@@ -12,3 +12,7 @@
 # BEBIDAS
 agua
 vino
+
+# CONSEJOS
+no pida su carne cruda
+no coma mucho, se puede indigestar
