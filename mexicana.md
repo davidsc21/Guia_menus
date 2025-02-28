@@ -11,3 +11,6 @@ quesadillas: tortillas con queso
 agua
 cerveza
 coca-cola
+
+# CONSEJOS
+no pida mucho picante, le puede dar diarrea
