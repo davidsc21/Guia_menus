@@ -22,3 +22,6 @@ Es un batido refrescante hecho a base de yogurt natural o griego, hielo, cardamo
 # BEBIDAS
 assi:
 El lassi es una bebida tradicional de la India hecha a base de yogur. Es popular en dicho país, aunque tuvo su origen en el Punyab. ​ Se bebe fría ya que tiene un gran poder refrescante. El lassi cuando es salado es llamado "tradicional", y es condimentado con comino, pimienta y otras especias.
+
+# CONSEJOS
+la comida callejera de la india es muy poco higienica, por eso, mejor evitala
