@@ -35,3 +35,6 @@ El té de crisantemo, de un sabor dulce, herbal y fresco, se emplea como un reme
 
 5. Leche de soja
 En China se bebe leche de soja, pero no se hace solo con los granos de soja tradicionales, sino que, además, se le añaden granos de trigo amarillo. Es una bebida muy popular de sabor dulce y natural.
+
+# CONSEJOS
+Al servirte tu mismo los platos, debes tomar la comida primero de los platos frente a ti en lugar de los que están en el centro de la mesa o frente a los demás. Es de mala educación usar los palillos para escarbar entre la comida y “cavar en busca de tesoros” así como mantener los ojos pegados a los platos.
