@@ -11,3 +11,6 @@ ramen: caldo de fideos acompañado con carne comunmente de cerdo, salsa soya, ce
 # BEBIDAS
 sake: bebida alcoholica comunmente obtenida de la fermentacion del arroz
 agua: agua 
+
+#  CONSEJOS
+los japoneses son muy apegados a su cultura, por eso se recomienda seguir los modales a la hora de comer, de lo contrario podria verse vulgar, irrespetuoso, etc..
