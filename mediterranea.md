@@ -24,3 +24,30 @@ Este plato es una deliciosa preparación de calamares, muy popular en Italia. Lo
 # BEBIDAS
 sangría de otoño:
  La sangría de otoño combina ron blanco, vino tinto, limonada, limón fresco y jugo de naranja.
+
+# CONSEJOS
+1. Utilizar el aceite de oliva como principal grasa de adición
+Es el aceite más utilizado en la cocina mediterránea. Es un alimento rico en vitamina E, betacarotenos y ácidos grasos monoinsaturados que le confieren propiedades cardioprotectoras.
+Este alimento representa un tesoro dentro de la dieta mediterránea, y ha perdurado a través de
+siglos entre las costumbres gastronómicas regionales, otorgando a los platos un sabor y aroma
+únicos.
+
+2. Consumir alimentos de origen vegetal en abundancia: frutas, verduras,
+legumbres, champiñones y frutos secos
+Las verduras, hortalizas y frutas son la principal fuente de vitaminas, minerales y fibra de
+nuestra dieta y nos aportan al mismo tiempo, una gran cantidad de agua. Es fundamental
+consumir 5 raciones de fruta y verdura a diario. Gracias a su contenido elevado en
+antioxidantes y fibra pueden contribuir a prevenir, entre otras, algunas enfermedades
+cardiovasculares y algunos tipos de cáncer.
+
+3. El pan y los alimentos procedentes de cereales (pasta, arroz y especialmente
+sus productos integrales) deberían formar parte de la alimentación diaria
+El consumo diario de pasta, arroz y cereales es indispensable por su composición rica en
+carbohidratos. Nos aportan una parte importante de energía necesaria para nuestras
+actividades diarias.
+
+4. Los alimentos poco procesados, frescos y de temporada son los más
+adecuados
+Es importante aprovechar los productos de temporada ya que, sobre todo en el caso de las
+frutas y verduras, nos permite consumirlas en su mejor momento, tanto a nivel de aportación de
+nutrientes como por su aroma y sabor
