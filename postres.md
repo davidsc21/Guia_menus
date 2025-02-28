@@ -15,3 +15,7 @@ MACARONS.
 
 # BEBIDAS
 agua
+
+# CONSEJOS
+no coma tanto postres, se puede empalagar
+si se empalaga tome agua
