@@ -18,3 +18,7 @@ Es aplanado, acompaña numerosas preparaciones o es la base para los kebabs. Inc
 
 5. Lassi 
 Es un batido refrescante hecho a base de yogurt natural o griego, hielo, cardamomo y jengibre. Puede tener otros ingredientes dependiendo de la región como frutas, especias adicionales y azúcar. 
+
+# BEBIDAS
+assi:
+El lassi es una bebida tradicional de la India hecha a base de yogur. Es popular en dicho país, aunque tuvo su origen en el Punyab. ​ Se bebe fría ya que tiene un gran poder refrescante. El lassi cuando es salado es llamado "tradicional", y es condimentado con comino, pimienta y otras especias.
